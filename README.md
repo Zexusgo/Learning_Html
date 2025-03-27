@@ -27,8 +27,7 @@ Learning_Html/
    git clone https://github.com/Zexusgo/Learning_Html.git
 2. Open index.html in a web browser.
 3. Modify the files to experiment and learn HTML.
-### 7. Technologies Used 
-```md
+   
 ## Technologies Used
 - HTML5
 - CSS3
