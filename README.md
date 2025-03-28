@@ -16,7 +16,7 @@ This repository is designed to help beginners learn HTML and CSS through simple 
 
 ## Project Structure
 Learning_Html/
-│── indextm.html       # Main HTML file
+│── index.html       # Main HTML file
 │── maintm.css         # CSS styles
 │── html5png.png     # Example image
 │── README.md        # Project documentation (this file)
